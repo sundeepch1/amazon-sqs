@@ -1,0 +1,13 @@
+server:
+  port: 9090
+
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      secret-key: AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+    end-point: 
+      uri: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
