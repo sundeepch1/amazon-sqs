@@ -5,7 +5,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class AmazonSqsSampleApplicationTests {
-
+adminstratorfullaccess
+	sqsfullaccess
 	@Test
 	void contextLoads() {
 	}
